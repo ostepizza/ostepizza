@@ -1,4 +1,7 @@
-### Hi there 👋
+### howdy, i'm mnilsen
+besides being an it student, <br>
+i am also a void-warranty mechanic, garbage carpenter, non-aspiring writer, and a "musician"
+
 
 <!--
 **ostepizza/ostepizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
